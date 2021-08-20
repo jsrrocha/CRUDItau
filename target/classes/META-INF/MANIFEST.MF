@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CadeMeuBichinho
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jessica
+Implementation-Vendor-Id: com.tcc
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CadeMeuBichinho
+Created-By: Maven Integration for Eclipse
+
